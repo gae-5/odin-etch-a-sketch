@@ -35,3 +35,7 @@ div.grid{
     height: 6.25%;
     width: 6.25%;
 }
+
+button{
+    align-self: center;
+}
